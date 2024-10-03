@@ -1,8 +1,8 @@
 ;------------------------------------------------
-;          MPMS (Multi-Purpose MiddleWare Server) x64: ver.1.01
-;   MAIN: Main + Config + Start
-;   (c) Kyiv, Ruslan FoXx
-;   01 July 2024
+;	MPMS (Multi-Purpose MiddleWare Server) x64: ver.1.01
+;	MAIN: Main + Config + Start
+;	(c) Kyiv, Ruslan FoXx
+;	01 July 2024
 ;------------------------------------------------
 format PE64 CONSOLE
 include 'server.inc'
